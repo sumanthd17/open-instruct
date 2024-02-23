@@ -28,6 +28,7 @@ Please see our first paper [How Far Can Camels Go? Exploring the State of Instru
 ## Setup
 
 To run training, evaluation, or inference for our finetuned models, you need to install the required packages by running the following command (after installing pytorch):
+> python >=3.10
 
 ```bash
 pip install -r requirements.txt
